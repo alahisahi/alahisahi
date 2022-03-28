@@ -1,3 +1,6 @@
+							Hello there! My name is Alahi. 👋🤓
+- 
+- 
 - 👋 Hi, I’m @alahisahi
 - 👀 I’m interested in ...Data Engineering and Finance 
 - 🌱 I’m currently learning ...Data Engineering
